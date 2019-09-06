@@ -1,23 +1,6 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 ﻿111
 222
 333
 444
-
-I added this
-and those фтв 
-I added this and a lot of
-іваіnew information
-ва
-івівааіва
-
-new information
-I think it will be fine
-or not
-or something terrible will happen
-фівфів
-)((((((()()()()
-XA - XA - XA
-=======
-﻿21XA - XA - XA
->>>>>>> b1
+фів
